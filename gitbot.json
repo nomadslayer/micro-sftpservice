@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testbot",
+  "private_key_id": "abcd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nabcdgYSK\n34307mfVG5shilIj7U8dG+4+Ov4PVCQMBPV7+0GjNHjXk7I1EtatzyZBOVQKH3Rn\nNrndOaCTqLX2T2EkFShYIIBr4i60eQK3aWK185uZwKTa3ph9vxFnZY3Qb2g4JTEQ\nuXrkDHyY/dkM9qJpzCS7kuy/grTX9hy8/0O1uSZECxUngst58GL5ViVzzODrz9KC\n5veXHzH+qN0YLxMtOjpycOxTV+eJ/ixiOilizA7wVIbnTWHeW7MsJ7isOb3I/9My\nkdKl/QBDu05kqtkPsmzKfZDw/djhdBsbJd+h2ZR9spH0LflQmRJ4byVGs1G1wSjk\nxxp/SP8JAgMBAAECggEAAKuHX6lCF+DoOhC/LdD+1sMrZ+G4kXl8ztbI+GIE3s7+\nSIJxhkFVP4102mzUPsNlwsRUQpmRE23aYydzY2ZQjztosRN01fVeGOAbREr/cUZM\nGZxs88+FxqP3+EzVXmHUEVXxmHv7yXlvHRNoE8AYFgOanM8CUEdOkNiSbS3GuFCn\nYCoS8PZ1/P8iiWoMdaC9THCf4NkJ2Jf0w4THZcudReoRJ+lUZwk735dHkRFYq9TZ\nzXkJuGA/5Rl5FQaex2GMAgkbv2L1rn+tXOh+4HzK8c4GHIyFvxb7Kus0i89Xf8Vl\nTcUV5LMVKsPlRPNvkrdXNRAeHiFD399hdKoJCYPUAQKBgQDvw7StpXpSNZv60Xvd\nDyWgGkSFWDWnj+nm6p9Hb4O3N5PqXdAvuE2D7zVK0Zrc6BzaDiAaBQXnPEzqfoGU\nYuNiMLcRfc8kxUyMt3NsRClJrJR07+AD8XomfWPToTpsRlrpQua66q3LwNY8tcFb\nvKAzM5P0tQb6r/5Wc4z4Zgm58QKBgQDBNab1Ukhf4aULsNaJe9AdDkVVaWSO2Jcg\nMWC+UXDboGSywDAjxi/5KLKsZKSzlm2p5jQ64rqd1yh5a+xcQAynOY8foE6+3Ent\nP3zeT+PI8vcdEl2CicKNcJNFYirVoS/5Df1jiSFgG2NUWc/uS/mn/Gzu5rhKkcys\narsmyvi+mQKBgQC7oaUIa0JhiXCKhVtwcIUaWNQcoh5DBh2exydkyQED5auMsmPU\npF+NCyriZUvS6paBkqJOmnW3MvpiXCPd0tFtKwBo4NK1TO2OBZZ/OIwzCqqXJI1j\nqJrV+jSgDkFhMGG+v8s+pZ7ioANIOVibCO85gnib/Pr8PbRFRWIhlgCwkQKBgA0i\nP4o3oLHb3eNQjxTjdL805COtOWe4c3V9xczKLnjPi2jXRa5433P5f0PWx5dpp2TA\nQFasaPEn2hl+659Nv05yzDbjJ9czlFbrVOqr1ZkoYwH36KFiCfaha3Fw/eZtwZwV\nhl8IyFsHIZZvUIIrafowX5tR1b9D7/zceIJnk8cpAoGAXaKS3WqVPsdUiqBIis1H\njhC3BzUQx3cLAcU5Ze/RWabAgo+N2UYP+JQXcW4ivv2HnwbsiycVEtxL0vowFepy\nnIFryzU7pglsnICUIJA9PtwsQ6BYAvaCxm0MVr0zC47wDHQDP+e/qHgUqY5iWZRu=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test@testbot.iam.gserviceaccount.com",
+  "client_id": "1234556",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testbot%4testbot.iam.gserviceaccount.com"
+ }
